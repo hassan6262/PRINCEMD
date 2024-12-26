@@ -1,12 +1,12 @@
 {
-  "name": "PRINCEMD",
+  "name": "hässän-övïç",
   "description": "whatsapp user bot",
   "repository": "https://github.com/DASTAGHIR/PRINCEMD",
   "logo": "https://qu.ax/igJFS.png",
   "success_url": "https://github.com/DASTAGHIR/PRINCEMD",
   "keywords": [
     "nodejs", "heroku", "bot", "urdu", "english", "indonesian", "arab", "portuguese", "italian", "french", "whatsapp",
-    "termux", "superbot", "multi-device", "md", "official", "javascript", "princebot"
+    "termux", "superbot", "multi-device", "md", "official", "javascript", "HÄSSÄN-ÖVÏÇ"
   ],
   "image": "heroku/nodejs",
   "stack": "container",
