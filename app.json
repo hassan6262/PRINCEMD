@@ -12,24 +12,24 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "put your session ID here in the box below",
+      "description": "Prince~VoxRxaAb#qCi4T_miTaK4iokXdXDF4c_PT1ixf34CxJfxEcR8WbY",
       "required": true,
       "value": ""
     },
     "BOT_NAME": {
-      "description": "put your BOT a name",
+      "description": "HÄSSÄN-ÖVÏÇ",
       "required": true,
-      "value": "PRINCE-MD"
+      "value": "HÄSSÄN-ÖVÏÇ"
     },
     "OWNER_NUMBER": {
       "description": "put your Number and name for Owner",
       "required": true,
-      "value": "9230926680000,❣️PRINCE THE DEVELOPER"
+      "value": "9230926680000,❣️övïç THE DEVELOPER"
     },
     "MODE": {
-      "description": "choose bot mode public or private",
+      "description": "private ",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "PREFIX": {
       "description": "put any one symbol here leave it Blank if you want to use multiple prefix",
@@ -77,9 +77,9 @@
       "value": "1,212,63,44"
     },
     "PACK_NAME": {
-      "description": "put your stickers pack name",
+      "description": "HÄSSÄN-ÖVÏÇ",
       "required": false,
-      "value": "Princebot🎗️❣️"
+      "value": "HÄSSÄN-ÖVÏÇ❣️"
     },
     "DL_MSG": {
       "description": "Video downloader caption",
