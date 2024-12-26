@@ -22,9 +22,9 @@
       "value": "HÄSSÄN-ÖVÏÇ"
     },
     "OWNER_NUMBER": {
-      "description": "put your Number and name for Owner",
+      "description": "+447923436040",
       "required": true,
-      "value": "9230926680000,❣️övïç THE DEVELOPER"
+      "value": "+447923436040,❣️övïç THE DEVELOPER"
     },
     "MODE": {
       "description": "private ",
