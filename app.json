@@ -6,13 +6,13 @@
   "success_url": "https://github.com/DASTAGHIR/PRINCEMD",
   "keywords": [
     "nodejs", "heroku", "bot", "urdu", "english", "indonesian", "arab", "portuguese", "italian", "french", "whatsapp",
-    "termux", "superbot", "multi-device", "md", "official", "javascript", "HÄSSÄN-ÖVÏÇ"
+    "termux", "superbot", "multi-device", "md", "official", "javascript", "PRINCE-MD"
   ],
   "image": "heroku/nodejs",
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Prince~VoxRxaAb#qCi4T_miTaK4iokXdXDF4c_PT1ixf34CxJfxEcR8WbY",
+      "description": "Prince~Y0gQEARZ#_w3W90SEtmv7Ds_KJAl941A8I9uEChHVFIAwwTxX3V0",
       "required": true,
       "value": ""
     },
